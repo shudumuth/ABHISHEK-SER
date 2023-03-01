@@ -8,9 +8,10 @@
 //▮
 //▮REPORT ABUSE OF THIS SOFTWARE EMAIL US
 //▮AbhishekSuresh2030@gmail.com
-//▮WHATSAPP US : +919074692450
-//▮YOUTUBE CHANNELL: https://tinyurl.com/2mybgbu7
-//▮
+//▮WHATSAPP US : +919074692450,+918590745203
+      
+//▮YOUTUBE CHANNELL: https://youtube.com/@user-nb8ky9yo8j
+//▮FOLLOW ON INSTAGRAM: https://instagram.com/cybertron_god_zzz?igshid=ZDdkNTZiNTM=
 //╰▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
 //
 //┏━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -257,8 +258,8 @@ if(time2 < "05:00:00"){
 var ucapannya2 = `Good morning 🌅`
 }
 
-global.botdev = ['919074692450','919074692450']
-global.bothelp = ['919074692450']
+global.botdev = ['919074692450','918590745203']
+global.bothelp = ['919074692450','918590745203']
 
 //function rpg
    const { 
