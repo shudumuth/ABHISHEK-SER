@@ -7,8 +7,8 @@
 //▮THIS SOFTWARE IS UNDER UZ COPYRIGHT
 //▮
 //▮REPORT ABUSE OF THIS SOFTWARE EMAIL US
-//▮AbhishekSuresh2030@gmail.com
-//▮WHATSAPP US : +919074692450,+918590745203
+//▮allkeralapetslelamofficial@gmail.com
+//▮WHATSAPP US : +919497872524
       
 //▮YOUTUBE CHANNELL: https://youtube.com/@user-nb8ky9yo8j
 //▮FOLLOW ON INSTAGRAM: https://instagram.com/cybertron_god_zzz?igshid=ZDdkNTZiNTM=
@@ -18,7 +18,7 @@
 //┃THIS SOFTWARE INCLUDES 
 //┃SOME ENCRYPTED FILES
 //┃
-//┃THANKS FOR CHOOSING ABHISHEK-SER
+//┃THANKS FOR CHOOSING ALL KERALA PETS LELAM
 //┃THANKS TO Zim Bot Inc
 //┃BEHOLD THE NEW
 //┃
@@ -70,9 +70,9 @@ const setting = JSON.parse(fs.readFileSync('./apikey.json'))
 
 //buat info zvibhorani zivi
 limitawal = '100'
-botname ='ABHISHEK-SER'
-wm = 'ABHISHEK-SER'
-global.reactmoji = '👻'
+botname ='ALL KERALA PETS LELAM'
+wm = 'ALL KERALA PETS LELAM'
+global.reactmoji = '🕊️'
 limitCount = setting.limit
 
 //read database
@@ -258,8 +258,8 @@ if(time2 < "05:00:00"){
 var ucapannya2 = `Good morning 🌅`
 }
 
-global.botdev = ['919074692450','918590745203']
-global.bothelp = ['919074692450','918590745203']
+global.botdev = ['919497872524']
+global.bothelp = ['919497872524']
 
 //function rpg
    const { 
