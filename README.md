@@ -4,7 +4,7 @@
 
 ## World best Bgm whatsapp bot🖤
 
-<img src="https://i.imgur.com/WppGTCm.jpeg" alt="nz" width="350"/>
+<img src="https://i.imgur.com/DOHAJ8w.jpeg
 
 </p>
 
